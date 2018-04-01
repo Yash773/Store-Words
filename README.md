@@ -5,10 +5,12 @@ This app lets you store a Word with Meaning, Pronunciation, Usage and other fiel
 
 The objective of this app is to store words and revisit them to have a good understanding of them. I used it to store some GRE Words and learn them by whenever i was travelling.
 
+#Additional Info
+As it uses SQLite Database so it is offline and does not require internet.
+
 # Screenshots
 ![](https://i.imgur.com/oUagRLG.png)
 ![](https://i.imgur.com/sacUXgS.png)
 ![](https://i.imgur.com/FyXtczd.png)
 ![](https://i.imgur.com/YcOqdcc.png)
 ![](https://i.imgur.com/qGX8TK2.png)
-
