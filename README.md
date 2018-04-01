@@ -6,7 +6,7 @@ This app lets you store a Word with Meaning, Pronunciation, Usage and other fiel
 The objective of this app is to store words and revisit them to have a good understanding of them. I used it to store some GRE Words and learn them by whenever i was travelling.
 
 # Screenshots
-![](https://i.imgur.com/oUagRLG.png = 250px)
+![](https://i.imgur.com/oUagRLG.png){ width: 200px; }
 ![](https://i.imgur.com/sacUXgS.png = 250px)
 ![](https://i.imgur.com/FyXtczd.png = 250px)
 ![](https://i.imgur.com/YcOqdcc.png = 250px)
